@@ -1,6 +1,11 @@
 package com.ak.entity;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class Cars {
+	@Id
 	private int id;
 	private String name;
 	
