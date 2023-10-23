@@ -2,7 +2,7 @@
 
 FROM openjdk:17-jdk-slim
 
-ARG JAR_FILE=target/Laptop-Project.jar
+ARG JAR_FILE=target/CarsProject.jar
 
 WORKDIR .
 

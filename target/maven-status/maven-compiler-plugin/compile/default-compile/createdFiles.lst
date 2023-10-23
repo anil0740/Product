@@ -1,0 +1,6 @@
+com\ak\Application.class
+com\ak\dao\CarsDao.class
+com\ak\service\CarsService.class
+com\ak\controller\CarsController.class
+CarsRepository.class
+com\ak\entity\Cars.class
